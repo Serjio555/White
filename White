@@ -1,0 +1,9 @@
+onfigurations": ["C/C++ debugger", "Python debugger"],
+      "preLaunchTask": "CMake: build",
+      "stopAll": true,
+      "presentation": {
+        "order": 1
+      }
+    }
+  ]
+}
